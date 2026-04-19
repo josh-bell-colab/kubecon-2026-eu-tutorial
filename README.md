@@ -1,1 +1,0 @@
-# kubecon-2026-eu-tutorial
